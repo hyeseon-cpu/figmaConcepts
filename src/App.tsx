@@ -292,10 +292,6 @@ export default function App() {
               어떤 화면 크기에서도 깨지지 않는 완벽한 디자인을 만들 수 있습니다.
             </p>
           </div>
-          <button className="px-6 py-3 bg-black text-white rounded-xl font-bold hover:bg-slate-800 transition-colors flex items-center gap-2">
-            강의 더 알아보기
-            <ChevronRight size={18} />
-          </button>
         </motion.div>
       </main>
 
